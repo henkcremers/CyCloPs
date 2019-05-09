@@ -6,7 +6,7 @@ function [] = CCP_QualityControl(project_info,varargin)
 % (/project/skeedy/MATLAB_code/art_toolbox) -- needs to be added to the path
 % check for spikes in the data, and excessive movement of subjects
 % saves a *.mat and a *.txt with a summary of the data quality
-% in the file in the project info foler. 
+% in the file in the project info folder. 
 %
 % IN: 
 % ## project_info
